@@ -2,11 +2,11 @@
 
 ## Solutions for assignments
 
-* Week 08: [Discrete Events]
+* Week 08: [Discrete Events]() pending
 
-* Week 07: [Ford Fulkerson]
+* Week 07: [Ford Fulkerson]() pending
 
-* Week 05: [More Dynamic Programming]()
+* Week 05: [More Dynamic Programming](https://github.com/lgreco/comp-363-f25-week05/blob/main/solution.py)
 
 * Week 04: [Dynamic Programming](https://github.com/lgreco/comp-363-f25-week04/blob/main/solutions.ipynb)
 
